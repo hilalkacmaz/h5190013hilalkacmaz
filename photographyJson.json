@@ -6,7 +6,7 @@
 			"KullanılabilenLensler": "30mm f1.4, 50mm f1.8, 85mm f1.2 ",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_portrait.png",
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_portrait.jpeg"
-		},
+	},
 
         {
             "Adi": "Belgesel (Photo journalismtem)",
@@ -15,7 +15,7 @@
 			"KullanılabilenLensler": "200-600 mm, 100-400 mm, 5mm fisheye, 70-300 mm, 70-200 mm, 600 mm, 50 mm, 4 mm ",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_documentary.png",
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_documentary.jpg"
-		},
+	},
 
         {
             "Adi": "Doğa (Nature Photography)",
@@ -24,7 +24,7 @@
 			"KullanılabilenLensler": "Sigma 18-250mm f/3.5-6.3 DC OS Macro",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_nature.png", 
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_nature.jpg"
-		},
+	},
 
         {
             "Adi": "Macera (Adventure Photography)",
@@ -33,7 +33,7 @@
 			"KullanılabilenLensler": "Canon EF-M 32mm f/1.4 STM",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_adventure.png",
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_adventure.jpg"
-		},
+	},
 
         {
             "Adi": "Natural (Candid Photography)",
@@ -42,7 +42,7 @@
 			"KullanılabilenLensler": "Nikon AF-S 70-200mm ƒ/2.8G ED VR II, Canon EF 16-35mm ƒ/2.8L II USM, Nikon AF-S 14-24mm ƒ/2.8G ED",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_natural.png",
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_natural.jpg"
-		},
+	},
 
 
         {
@@ -52,42 +52,15 @@
 			"KullanılabilenLensler": "24 – 70 mm, 85mm F/1.4, 50mm f/1,4, 135mm f/2, 70-200mm f/4 L",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_art.png",
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_art.jpg"
-		},
+	},
 		
-		{
+	{
             "Adi": "Reklam, Ürün (Still Life)",
             "Aciklama": "<br>Üzerinde uzun uzadıya düşünülmüş, büyük gruplar tarafından tasarlanmış ve belli bir mekan içerisinde, belli ışık sistemleriyle ürün üzerinde makyaj yapılarak, tüketici kitleye görsel alanda sunulmak üzere planlanmış ve uygulamaya konulmuş çalışmaya REKLAM FOTOĞRAFÇILIĞI denir.</br>",
 			"TurunEnIyıFotografcilari": "Ahmet Selçuk Özel, Gökhan Somuncu",
 			"KullanılabilenLensler": "50 mm f/1.8, 24-105 F4, 85mm f/1.2",
 			"LogoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/icon/icon_product.png",
 			"KapakFotoUrl": "https://raw.githubusercontent.com/hilalkacmaz/h5190013hilalkacmaz/main/icon-kapak/kapak/cover_product.jpg"
-		}
+	}
     
-
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
