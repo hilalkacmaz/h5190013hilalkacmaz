@@ -11,11 +11,11 @@ Bu android uygulaması, fotoğrafçılık alanındaki türleri temel bir şekild
 
 <h2 id="Ekran_Goruntuleri">Ekran Görüntüleri</h2>
 <p>
-  <img height= "400"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim2.png" />
-  <img height= "400"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim3.png" />
-  <img height= "400"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim4.png" />
-  <img height= "400"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim5.png" />
-  <img height= "400"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim6.png" />
+  <img height= "350"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim2.png" />
+  <img height= "350"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim3.png" />
+  <img height= "350"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim4.png" />
+  <img height= "350"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim5.png" />
+  <img height= "350"  src="https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim6.png" />
 
 </p>
 
@@ -23,11 +23,12 @@ Bu android uygulaması, fotoğrafçılık alanındaki türleri temel bir şekild
 ![Architecture](https://github.com/hilalkacmaz/h5190013hilalkacmaz/blob/main/screens/Resim9.png)
 
 ## Uygulamada Kullanılan Kütüphaneler 
-<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
-<li><a href="https://github.com/square/retrofit">Retrofit</a></li>
-<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
+<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
+<li><a href="https://github.com/square/retrofit">Retrofit</a></li>
+
 
 
 Lisans
