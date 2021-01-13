@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size">200dp</dimen>
+    <dimen name="zeroHeight">0dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="marginRight">25dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="textSizeHood">30sp</dimen>
+    <dimen name="margin">15dp</dimen>
+    <dimen name="size2">100dp</dimen>
+    <dimen name="size3">400dp</dimen>
+</resources>

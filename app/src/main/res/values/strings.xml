@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">H5190013_HilalKacmazFinal</string>
+    <string name="attention">dikkat</string>
+    <string name="internet_problem">internet sorunu</string>
+    <string name="go_to_settings">ayarlara git</string>
+    <string name="exit">Çıkış</string>
+    <string name="wait">bekleyiniz</string>
+    <string name="want_to_quit">Çıkmak istediğinize emin misiniz ?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="mainActivityScreen">MainActivity</string>
+    <string name="listActivityScreen">ListActivity</string>
+</resources>
