@@ -106,7 +106,7 @@ public class ListActivity extends AppCompatActivity {
             public void onClik(int position) {
 
                 PhotographyModel clickedPhotography =photographyList.get(position);
-                opennextActivity(clickedPhotography);
+                openNextActivity(clickedPhotography);
 
             }
         });
@@ -114,7 +114,7 @@ public class ListActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
         recyclerView.setAdapter(photographyAdaptor);
     }
-    private void opennextActivity(PhotographyModel clickedPhotography){
+    private void openNextActivity(PhotographyModel clickedPhotography){
         Intent photographyDetailActivity=new Intent(getApplicationContext(), PhotographyDetailActivity.class);
         String clickedPhotographyString= ObjectUtil.photographyToJsonString(clickedPhotography);
         photographyDetailActivity.putExtra(Constants.CLICKED_ITEM_NAME,clickedPhotographyString);
